@@ -6,28 +6,36 @@ h1 {
   color: darkgrey;
   text-align: center;
 }
+
 h2 {
   text-align: center;
   color: darkgrey;
 }
-.sanfran1 {
+
+.projects {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.mariomemoryimg {
  height: 400px;
- width: 300px;
+ width: 400px;
  padding: 0 25px 50px 310px;
 }
 
-.ny {
+.taskitimg {
   height: 400px;
-  width: 300px;
+  width: 400px;
   padding: 0 25px 50px 25px;
 }
 
-.london{
-  position: absolute;
-  left: 1000px;
-  top: 0px;
+.expensesimg{
+  /* position: absolute; */
+  /* left: 1000px; */
+  /* top: 0px; */
   height: 400px;
-  width: 300px;
+  width: 400px;
   padding: 0 25px 50px 25px;
 }
 
