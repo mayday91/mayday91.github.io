@@ -21,14 +21,34 @@ h2 {
 
 
 .githublogo {
-  width: 100px;
-  height: 100px;
+  width: 50px;
+  height: 50px;
 }
 
 .projects {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+}
+
+.mariomemory {
+  padding: 10px;
+  margin: 10px;
+}
+
+.todo {
+  padding: 10px;
+  margin: 10px;
+}
+
+.musicreviews {
+  padding: 10px;
+  margin: 10px;
+}
+
+.expenses {
+  padding: 10px;
+  margin: 10px;
 }
 
 .mariomemoryimg {
