@@ -12,6 +12,19 @@ h2 {
   color: darkgrey;
 }
 
+.intro {
+  text-align: center;
+  justify-content: center;
+  margin: 0 auto;
+  align-items: center;
+}
+
+
+.githublogo {
+  width: 200px;
+  height: 100px;
+}
+
 .projects {
   display: flex;
   flex-direction: row;
@@ -20,13 +33,13 @@ h2 {
 
 .mariomemoryimg {
  height: 400px;
- width: 400px;
+ width: 500px;
  padding: 0 25px 50px 310px;
 }
 
 .taskitimg {
   height: 400px;
-  width: 400px;
+  width: 500px;
   padding: 0 25px 50px 25px;
 }
 
