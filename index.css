@@ -21,7 +21,7 @@ h2 {
 
 
 .githublogo {
-  width: 200px;
+  width: 100px;
   height: 100px;
 }
 
@@ -34,13 +34,13 @@ h2 {
 .mariomemoryimg {
  height: 400px;
  width: 500px;
- padding: 0 25px 50px 310px;
+ /* padding: 0 25px 50px 310px; */
 }
 
 .taskitimg {
   height: 400px;
   width: 500px;
-  padding: 0 25px 50px 25px;
+  /* padding: 0 25px 50px 25px; */
 }
 
 .expensesimg{
@@ -49,7 +49,7 @@ h2 {
   /* top: 0px; */
   height: 400px;
   width: 400px;
-  padding: 0 25px 50px 25px;
+  /* padding: 0 25px 50px 25px; */
 }
 
 .button{
@@ -64,59 +64,41 @@ h2 {
   left: 470px;
 }
 
-.napa{
-  height: 400px;
-  width: 300px;
-  padding: 0 25px 50px 310px;
+
+/* ----------------   NAVBAR ------------------------- */
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
 }
 
-.sonoma{
-  height: 400px;
-  width: 300px;
-  padding: 0 25px 50px 25px;
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
 }
 
-.sanfran2{
-  height: 400px;
-  width: 300px;
-  padding: 0 25px 50px 25px;
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
 }
 
-.image1{
-  position: relative;
-  left: 10px;
-  top: 50px;
-}
-
-.sanfran1text{
-  position: absolute;
-  left: 375px;
-  top: 120px;
+/* Add an active class to highlight the current page */
+.topnav a.active {
+  background-color: #04AA6D;
   color: white;
-  font-size: 30px
-
 }
 
-.nytext{
-  position: absolute;
-  left: 755px;
-  top: 120px;
-  color: white;
-  font-size: 30px
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+  display: none;
 }
 
-.londontext{
-  position: absolute;
-  left: 1120px;
-  top: 120px;
-  color: white;
-  font-size: 30px
-}
-
-.napatext{
-  position: absolute;
-  left: 375px;
-  top: 420px;
-  color: white;
-  font-size: 30px
-}
+/* --------------   END OF NAVBAR ---------------- */
