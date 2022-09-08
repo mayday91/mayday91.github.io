@@ -1,0 +1,101 @@
+body{
+  background-color: rgb(250, 236, 216);
+  
+}
+h1 {
+  color: darkgrey;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  color: darkgrey;
+}
+.sanfran1 {
+ height: 400px;
+ width: 300px;
+ padding: 0 25px 50px 310px;
+}
+
+.ny {
+  height: 400px;
+  width: 300px;
+  padding: 0 25px 50px 25px;
+}
+
+.london{
+  position: absolute;
+  left: 1000px;
+  top: 0px;
+  height: 400px;
+  width: 300px;
+  padding: 0 25px 50px 25px;
+}
+
+.button{
+  text-align: center;
+  background-color: peachpuff;
+  color: black;
+  width: 150px;
+  height: 25px;
+  padding: 10px 50px 25px 15px;
+  margin: 25px 0px 25px 275px;
+  position: relative;
+  left: 470px;
+}
+
+.napa{
+  height: 400px;
+  width: 300px;
+  padding: 0 25px 50px 310px;
+}
+
+.sonoma{
+  height: 400px;
+  width: 300px;
+  padding: 0 25px 50px 25px;
+}
+
+.sanfran2{
+  height: 400px;
+  width: 300px;
+  padding: 0 25px 50px 25px;
+}
+
+.image1{
+  position: relative;
+  left: 10px;
+  top: 50px;
+}
+
+.sanfran1text{
+  position: absolute;
+  left: 375px;
+  top: 120px;
+  color: white;
+  font-size: 30px
+
+}
+
+.nytext{
+  position: absolute;
+  left: 755px;
+  top: 120px;
+  color: white;
+  font-size: 30px
+}
+
+.londontext{
+  position: absolute;
+  left: 1120px;
+  top: 120px;
+  color: white;
+  font-size: 30px
+}
+
+.napatext{
+  position: absolute;
+  left: 375px;
+  top: 420px;
+  color: white;
+  font-size: 30px
+}
