@@ -28,10 +28,18 @@ h2 {
   height: 50px;
 }
 
+.footer-links{
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
 .projects {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
 }
 
 .mariomemory {
