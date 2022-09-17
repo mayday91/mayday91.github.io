@@ -13,6 +13,10 @@ h2 {
   color: darkgrey;
 }
 
+h3 {
+  color: blueviolet;
+}
+
 .intro {
   text-align: center;
   justify-content: center;
