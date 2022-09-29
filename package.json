@@ -4,6 +4,7 @@
   },
   "dependencies": {
     "carousel": "^0.0.3",
-    "typed.js": "^2.0.12"
+    "typed.js": "^2.0.12",
+    "wc-typed-js": "^1.0.1"
   }
 }
